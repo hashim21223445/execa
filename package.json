@@ -65,7 +65,7 @@
 		"yoctocolors": "^2.0.0"
 	},
 	"devDependencies": {
-		"@types/node": "^20.8.9",
+		"@types/node": "^22.10.2",
 		"ava": "^6.0.1",
 		"c8": "^10.1.2",
 		"get-node": "^15.0.0",
